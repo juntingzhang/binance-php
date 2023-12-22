@@ -1,12 +1,12 @@
 {
-    "name": "nobody/exchange",
+    "name": "jtz1992/exchange",
     "type": "library",
     "description": "Binance API Like the official document interface, Support for arbitrary extension.",
     "license": "MIT",
     "keywords": ["bitmex", "binance", "okex", "huobi","kucoin","kumex"],
     "authors": [
         {
-            "name": "nobody",
+            "name": "jtz1992",
             "email": "nobody@exchange.network"
         }
     ],
